@@ -1,0 +1,21 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+/[Pp]ackages/manifest.json.backup
+/[Pp]ackages/packages-lock.json.backup
+/[Aa]ssets/AssetStoreTools*
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Proyectos C#
+*.csproj
+*.sln
